@@ -15,3 +15,5 @@ Excel-Sales and Finance Report and Insights of **AtliQ-Hardwares**
 6) [New products](https://github.com/clavitvenky/Data-Analysis-on-Excel/blob/19c212f35058c0da27739be2fc669168c8ced1ed/New%20products%20in%202021.pdf) that Atliq began selling in 2021.
 7) [Top 5 countries](https://github.com/clavitvenky/Data-Analysis-on-Excel/blob/15ce126caf8a1d749c4c0d578f275a5849dc4df5/Top%205%20contries%20in%202021.pdf) in terms of net sales in 2021
 
+# Finance Analytics💰
+**Projective Objective**:
