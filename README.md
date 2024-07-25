@@ -17,6 +17,8 @@ Excel-Sales and Finance Report and Insights of **AtliQ-Hardwares**
 
 # Finance Analytics💰
 **Projective Objective**:
-1. Create Profit and Loss (P&L) reports by Fiscal Year & Months.
-2. Create Profit and Loss (P&L) reports by Markets.
-3. Create a GM% report by subzones for all FY with quaterwise.
+1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/clavitvenky/Data-Analysis-on-Excel/blob/6eee6c09a8234d669b3cf5245b880de4533d7f9b/P%26L%20by%20FY.pdf) & [Months](https://github.com/clavitvenky/Data-Analysis-on-Excel/blob/6eee6c09a8234d669b3cf5245b880de4533d7f9b/P%26L%20by%20months.pdf
+).
+2. Create Profit and Loss (P&L) reports by [Markets](https://github.com/clavitvenky/Data-Analysis-on-Excel/blob/6eee6c09a8234d669b3cf5245b880de4533d7f9b/P%26L%20by%20markets%20for%20FY21.pdf).
+3. Create a [GM% report](
+https://github.com/clavitvenky/Data-Analysis-on-Excel/blob/6eee6c09a8234d669b3cf5245b880de4533d7f9b/GM%25%20by%20quaters%20for%20subzones.pdf) by subzones for all FY with quaterwise.
