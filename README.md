@@ -12,6 +12,6 @@ Excel-Sales and Finance Report and Insights of **AtliQ-Hardwares**
 3) [Top 10 products](https://github.com/clavitvenky/Data-Analysis-on-Excel/blob/81e76da381365d07119957511bc5bd2f9d0442c1/Top10%20products.pdf) based on the percentage increase in their net sales from 2020 to 2021.
 4) [Division report](https://github.com/clavitvenky/Data-Analysis-on-Excel/blob/f6cf80d4691243a83a9922a93b523223cdc1c043/Division%20report.pdf) to present the net sales data for 2020 and 2021, along with the growth percentage.
 5) Products that are ranked in the [top 5 and bottom 5 ](https://github.com/clavitvenky/Data-Analysis-on-Excel/blob/576c197748016b26d61d8c8245b8276ec17755da/Top%205%20and%20bottom%205%20products%20by%20qty.pdf)in terms of quantity sold.
-6) New products that Atliq began selling in 2021.
+6) [New products](https://github.com/clavitvenky/Data-Analysis-on-Excel/blob/19c212f35058c0da27739be2fc669168c8ced1ed/New%20products%20in%202021.pdf) that Atliq began selling in 2021.
 7) Top 5 countries in terms of net sales in 2021
 
