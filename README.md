@@ -48,3 +48,24 @@ https://github.com/clavitvenky/Data-Analysis-on-Excel/blob/6eee6c09a8234d669b3cf
         
   A higher gross margin generally indicates that the company is effectively managing its production costs relative to the price it charges for its products.
 
+# Technical Skills🧰
+
+🔹**Data Analysis:** Ability to use Excel functions like VLOOKUP, HLOOKUP, INDEX-MATCH, SUMIFS, COUNTIFS, and statistical functions (e.g., AVERAGE, STDEV) to analyze and manipulate data.
+
+🔹**PivotTables and PivotCharts:** Proficiency in creating PivotTables to summarize and analyze large datasets, and PivotCharts to visualize data trends and patterns.
+
+🔹**Data Cleaning and Transformation:** Skills in data cleaning techniques such as removing duplicates, handling missing data, text-to-columns, and data validation to ensure data accuracy and consistency.
+
+🔹**Formulas and Functions:** Knowledge of advanced Excel formulas such as IFERROR, CONCATENATE, TEXTJOIN, and complex nested formulas for calculations and data manipulation.
+
+🔹**Macros and VBA (Visual Basic for Applications):** Basic understanding of recording and editing macros, and writing VBA code to automate repetitive tasks, enhance functionality, and create custom solutions.
+
+🔹**Data Visualization:** Ability to create visually appealing charts and graphs (e.g., bar charts, line charts, scatter plots) using Excel's charting tools to present insights effectively.
+
+🔹**Conditional Formatting:** Proficiency in using conditional formatting to highlight data trends, patterns, and anomalies based on specific criteria.
+
+🔹**Data Validation:** Skills in setting up data validation rules to control and restrict input options for data entry, ensuring data consistency and integrity.
+
+🔹**Excel Tables and Structured References**: Knowledge of Excel tables for structured data organization, and using structured references in formulas to work with table data dynamically.
+
+🔹**Collaboration and Sharing:** Familiarity with Excel's collaboration features such as sharing workbooks, tracking changes, and using comments to facilitate teamwork and feedback.
