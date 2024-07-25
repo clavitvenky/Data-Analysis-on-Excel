@@ -22,3 +22,8 @@ Excel-Sales and Finance Report and Insights of **AtliQ-Hardwares**
 2. Create Profit and Loss (P&L) reports by [Markets](https://github.com/clavitvenky/Data-Analysis-on-Excel/blob/6eee6c09a8234d669b3cf5245b880de4533d7f9b/P%26L%20by%20markets%20for%20FY21.pdf).
 3. Create a [GM% report](
 https://github.com/clavitvenky/Data-Analysis-on-Excel/blob/6eee6c09a8234d669b3cf5245b880de4533d7f9b/GM%25%20by%20quaters%20for%20subzones.pdf) by subzones for all FY with quaterwise.
+
+# Industry Skills🏛️
+🔹Analyzed sales data to assess Customer performance, Market performance against targets, Top 10 products, Division-level reports, Top and Bottom 5 products by Quantity, as well as New products and the Top 5 Markets.
+
+🔹Analyzed financial metrics such as Net Sales, COGS (Cost of Goods Sold), Gross Margin, and GM% (Gross Margin Percentage) on a monthly, quarterly, and annual basis for the fiscal year
